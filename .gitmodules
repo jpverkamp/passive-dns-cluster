@@ -1,0 +1,9 @@
+[submodule "alexa"]
+	path = alexa
+	url = git://github.com/jpverkamp/alexa.git
+[submodule "ip2asn"]
+	path = ip2asn
+	url = git://github.com/jpverkamp/ip2asn.git
+[submodule "etld"]
+	path = etld
+	url = git://github.com/jpverkamp/etld.git
